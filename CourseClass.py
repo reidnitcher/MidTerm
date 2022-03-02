@@ -37,6 +37,9 @@ class Register:
     def get_name(self):
         return self.__studentname
     
+    def get_crn(self):
+        return self.__crn
+    
 
 
             
